@@ -1,0 +1,185 @@
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    overflow: auto;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+    height: 15vh;
+}
+
+.navbar-brand > img{
+    height: 30px;
+    border-right: 2px solid black;
+    padding-right: 30px;
+}
+
+.nav-item:hover a{
+    color: black;
+    text-decoration: 2px underline ;
+    text-underline-position: under;
+} 
+
+.nav-item a{
+    color: black;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+
+span {
+    font-weight: 500;
+    font-size: 15px;
+}
+
+
+.d-flex p{
+    font-size: 15px;
+    font-weight: 100;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.d-flex a{
+    color: black;
+    text-decoration: none;
+}
+
+.hello:hover  {
+    color: black;
+    text-decoration: 2px underline ;
+    text-underline-position: under;
+}
+
+
+.d-fl:hover a{
+    color: black;
+    text-decoration: 2px underline ;
+    text-underline-position: under;
+}
+
+h1 {
+    color: rgb(43, 44, 51);
+    font-weight: 700;
+}
+
+.container {
+    overflow: auto;
+    display: flex;
+}
+
+
+
+.main-1 {
+    background-color: rgb(242, 242, 242);
+    min-height: 100vh;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 10px;
+    
+}
+
+.head {
+    margin-top: 50px;
+    width: 50%;
+}
+
+.main-1 .head .para-1 {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.head > button {
+    padding: 15px 35px 15px 35px;
+    font-weight: 500;
+    border-radius: 30px;
+    background-color: #0078CA;
+    border: none;
+    font-weight: 500;
+    color: white;
+}
+
+.head > button:hover {
+    background-color: rgb(11, 100, 164);
+}
+
+.link-p {
+    margin-top: 20px;
+}
+
+.link  {
+margin-left: 20px;
+}
+
+.para {
+    margin-top: 25px;
+    font-weight: 100;
+    color: rgb(115, 116, 121);
+    text-align: justify;
+}
+
+.img-container {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.img-fluid {
+    height: 270px;
+}
+
+.container- {
+    min-height: 150vh;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    height: 600px;
+}
+
+h5 {
+    width: 90%;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 5px 10px 18px;
+}
+
+.card-text {
+    padding: 15px 15px 30px 15px;
+}
+
+.link-2 {
+    text-decoration: none;
+}
+
+.lin {
+    margin-top: 100px;
+}
+
+.lin a {
+    color: black;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
